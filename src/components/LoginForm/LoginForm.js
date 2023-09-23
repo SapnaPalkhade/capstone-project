@@ -98,7 +98,7 @@ export default function LoginForm({user, setUser }) {
                         </form>
 
                         <p>
-                            By continuing, you agree to Recipe Blog's Conditions of Use and Privacy
+                            By continuing, you agree to Recipe Blogs Conditions of Use and Privacy
                             Notice.
                         </p>
 

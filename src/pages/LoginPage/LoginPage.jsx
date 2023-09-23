@@ -24,7 +24,7 @@ export default function LoginPage({ user, setUser }) {
                    Back to login 
                 </p>
                 <p>
-                    By creating an account, you agree to Recipe Blog's Conditions of Use and
+                    By creating an account, you agree to Recipe Blogs Conditions of Use and
                     Privacy Notice.
                 </p>
                 </div>

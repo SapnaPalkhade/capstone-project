@@ -10,6 +10,7 @@ module.exports = {
     config.resolve.alias['~'] = path.resolve(__dirname, 'src');
     return config;
   },
+  distDir: 'build', // Specify the build folder here
 };
 
 
